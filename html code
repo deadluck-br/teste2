@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Meu Site Simples</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Bem-Vindo ao Meu Site Simples</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#section1">Seção 1</a></li>
+        <li><a href="#section2">Seção 2</a></li>
+        <li><a href="#section3">Seção 3</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id="section1">
+        <h2>Seção 1</h2>
+        <p>Conteúdo da Seção 1</p>
+      </section>
+      <section id="section2">
+        <h2>Seção 2</h2>
+        <p>Conteúdo da Seção 2</p>
+      </section>
+      <section id="section3">
+        <h2>Seção 3</h2>
+        <p>Conteúdo da Seção 3</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © 2022 Meu Site Simples</p>
+    </footer>
+  </body>
+</html>
